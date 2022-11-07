@@ -46,5 +46,5 @@ class CountdownTimer {
 
 (new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('January 01, 2022'),
+  targetDate: new Date('January 01, 2023'),
 })).start();
